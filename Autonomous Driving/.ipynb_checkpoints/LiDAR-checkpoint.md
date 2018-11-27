@@ -242,6 +242,9 @@ Thanks are given to:
 
 &emsp;&emsp;[2018] Recurrent-OctoMap: Learning State-Based Map Refinement for Long-Term Semantic Mapping With 3-D-Lidar Data [[pdf](https://arxiv.org/pdf/1807.00925.pdf)]
 
+&emsp;&emsp;[2018] SegMap: 3D Segment Mapping using Data-Driven Descriptors [[pdf](https://arxiv.org/abs/1804.09557)][[GitHub](https://github.com/ethz-asl/segmap)]
+
+
 ### End-To-End Learning
 
 &emsp;&emsp;[2017] VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection [[pdf](https://arxiv.org/abs/1711.06396)] [[TensorFlow 1](https://github.com/qianguih/voxelnet)] [[TensorFlow 2](https://github.com/jeasinema/VoxelNet-tensorflow)] [[PyTorch](https://github.com/skyhehe123/VoxelNet-pytorch)][[Keras](https://github.com/baudm/VoxelNet-Keras)][[chainer](https://github.com/yukitsuji/voxelnet_chainer)]
