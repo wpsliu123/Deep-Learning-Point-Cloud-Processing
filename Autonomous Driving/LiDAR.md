@@ -38,24 +38,24 @@ Thanks are given to:
 ### Lidar Datasets and Simulators
 
 &emsp;&emsp;*Udacity based simulator 
-    [__[Project](http://wangyangevan.weebly.com/lidar-simulation.html)__]
-    [__[Github](https://github.com/EvanWY/USelfDrivingSimulator)__]
+    [[Project](http://wangyangevan.weebly.com/lidar-simulation.html)]
+    [[Github](https://github.com/EvanWY/USelfDrivingSimulator)]
 
 &emsp;&emsp;*Udacity Driving Dataset 
-    [__[Github](https://github.com/udacity/self-driving-car/tree/master/datasets)__]
+    [[Github](https://github.com/udacity/self-driving-car/tree/master/datasets)]
 
 &emsp;&emsp;*Microsoft AirSim 
-    [__[Doc](https://microsoft.github.io/AirSim/docs/use_precompiled/)__]
-    [__[pdf](https://arxiv.org/pdf/1705.05065.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)__]
-    [__[Github](https://github.com/Microsoft/AirSim)__]
+    [[Doc](https://microsoft.github.io/AirSim/docs/use_precompiled/)]
+    [[pdf](https://arxiv.org/pdf/1705.05065.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)]
+    [[Github](https://github.com/Microsoft/AirSim)]
 
 &emsp;&emsp;*MVIG, Shanghai Jiao Tong University and SCSC Lab, Xiamen University, DBNet 
-    [__[pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1645.pdf)__]
-    [__[Github](https://github.com/driving-behavior/DBNet)__]
-    [__[website](http://www.dbehavior.net/)__]
+    [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1645.pdf)]
+    [[Github](https://github.com/driving-behavior/DBNet)]
+    [[website](http://www.dbehavior.net/)]
 
-&emsp;&emsp;*OXFORD ROBOTCAR DATASET [__[website](https://robotcar-dataset.robots.ox.ac.uk/)__]
-    [__[SDK](https://github.com/ori-drs/robotcar-dataset-sdk)__]
+&emsp;&emsp;*OXFORD ROBOTCAR DATASET [[website](https://robotcar-dataset.robots.ox.ac.uk/)]
+    [[SDK](https://github.com/ori-drs/robotcar-dataset-sdk)]
 
 &emsp;&emsp;*Ford Campus Vision and Lidar Data Set (FCVL) 
     [[website](http://robots.engin.umich.edu/SoftwareData/Ford)]
